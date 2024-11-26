@@ -13,12 +13,16 @@
     "@chakra-ui/react": "^2.0.0",
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
+    "@tanstack/react-router": "^1.82.12",
     "framer-motion": "^11.11.17",
+    "primereact": "^10.8.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
+    "@tanstack/router-devtools": "^1.82.12",
+    "@tanstack/router-plugin": "^1.82.10",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
